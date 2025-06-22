@@ -51,7 +51,7 @@ I'm just an introvert surviving in this extroverted world.
 
 ---
 
-### 🛠️ Habilidades Técnicas Clave
+### 🛠️ Snapshot of Tools
 
 * **SIEM & SOAR:** ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Google Chronicle SOAR](https://img.shields.io/badge/Chronicle%20SOAR-4285F4?style=flat-square&logo=google&logoColor=white) ![AlienVault](https://img.shields.io/badge/AlienVault-00A3CC?style=flat-square) ![Devo](https://img.shields.io/badge/Devo-00B2A9?style=flat-square)
 * **EDR / XDR:** ![Microsoft Defender XDR](https://img.shields.io/badge/Defender%20XDR-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Bitdefender](https://img.shields.io/badge/Bitdefender-ED1C24?style=flat-square&logo=bitdefender&logoColor=white)
@@ -59,8 +59,8 @@ I'm just an introvert surviving in this extroverted world.
 * **Phishing Analysis:** ![Proofpoint](https://img.shields.io/badge/Proofpoint-0076C0?style=flat-square) ![KnowBe4](https://img.shields.io/badge/KnowBe4-FF8200?style=flat-square) *(+ Abnormal Security)*
 * **Networking & Firewalls:** ![Cisco](https://img.shields.io/badge/Cisco%20IOS/ASA-1199D2?style=flat-square&logo=cisco&logoColor=white) ![Palo Alto](https://img.shields.io/badge/Palo%20Alto-FF4500?style=flat-square) ![Fortinet](https://img.shields.io/badge/Fortinet-DC143C?style=flat-square&logo=fortinet&logoColor=white)
 * **Forensics & IR:** ![EC-Council](https://img.shields.io/badge/Forensics%20Essentials-000000?style=flat-square) ![Jira](https://img.shields.io/badge/Jira%20(Incident%20Tracking)-0052CC?style=flat-square&logo=jira&logoColor=white)
-* **OS & Scripting:** ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-* **Virtualization:** ![VMware](https://img.shields.io/badge/VMware-666666?style=flat-square&logo=vmware&logoColor=white) ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+* **OS & Scripting:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+* **Virtualization:** ![VMware](https://img.shields.io/badge/VMware-666666?style=flat-square&logo=vmware&logoColor=white) [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 
 ---
 
