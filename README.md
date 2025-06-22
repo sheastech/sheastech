@@ -40,9 +40,9 @@ I'm just an introvert surviving in this extroverted world.
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://sheastech.github.io/" target="_blank">Blog: Shea's Tech</a></h3>
+      <h3><a href="https://news.sheastech.io/" target="_blank">Blog: Shea's Tech</a></h3>
       <p>
-          <img src="https://img.shields.io/badge/Substack%20Pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Substack"/>
+          <img src="[![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff)](#)" alt="Substack"/>
     </td
       </p>
     </td>
