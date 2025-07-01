@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  <h1>¡Earthlings! 👋 I am Shea </h1>
+  <h1>Earthlings! 👋 I am Shea </h1>
 
   <p>
     <strong>Linux | Cybersecurity | Cloud Red Teamer</strong><br>
