@@ -80,7 +80,6 @@ I'm just an introvert surviving in this extroverted world.
 | Certification                                            | Company                  | Year  |
 | :------------------------------------------------------- | :---------------------- | :--- |
 | **AWS Certified Solutions Architect Associate**          | Amazon                  | 2020 |
-| **AWS Certified SysOps Administrator - Associate**       | Amazon                  | 2025 |
 | CompTIA Security+                                        | CompTIA                 | 2024 |
 | Routing and Switching                                    | Cisco                   | 2011 |
 
